@@ -1,0 +1,1859 @@
+{
+  "about-1": {
+    "title": "About",
+    "body": {
+      "type": "group",
+      "items": [
+        {
+          "type": "group",
+          "items": [
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/015647_a1145f8cb3bd4118b90d822a481463f8~mv2.webp",
+                  "alt": "组 3.png",
+                  "width": 342,
+                  "height": 398,
+                  "half": true
+                },
+                {
+                  "type": "text",
+                  "html": "<p style=\"line-height:normal; font-size:15px;\">Calo (Jialu) An is a director, animator, and illustrator from China, and currently based in Atlanta. She received her masters degree in Animation at Savannah College of Art and Design in 2022.  </p>\n\n<p style=\"line-height:normal; font-size:15px;\"><span>​</span></p>\n\n<p style=\"line-height:normal; font-size:15px;\">Calo loves to explore from variety of visual language and define a unique art style for different animations. She believes that an exceptional art style could gives the story more potential.</p>\n\n<p style=\"font-size:15px;\"><span>​</span></p>\n\n<p style=\"font-size:15px;\">During her spare time, she likes to spend times with her friends. She is also a dog mom, and used to do dog rescue. Things are cute but with a little weird is her favourite type.</p>\n\n<p style=\"font-size:15px;\"><span>​</span></p>"
+                },
+                {
+                  "type": "text",
+                  "html": "<p style=\"line-height:normal; font-size:15px;\"><span style=\"letter-spacing:normal;\">&quot;Animation is a key to the dream world. I believe that the reliable performance of animation will break the boundary of reality and fantasy, and bring people an unprecedented experience. With the passion of taking people to my fantasy world, I have been pursuing persuasive acting in animation as an animator for the past three years. The passion of making enjoyable and relatable animation drives me to keep exploring both the technical and conceptual side of my career. During my undergraduate study in film, this kind of time-based visual art gave me enthusiasm, and it made me realize that my favorite form of visual art is animation. Unlike film, animation gives me more freedom to let my imagination come true. When I mimic myself through different characters with different personalities, the colors of those souls bring me uncountable joy and empathy. I hope to deliver this idea to more people through my works, regardless of language, environment, or culture. In the creative process, it is my belief to convey the concept and the spirit of entertainment.&quot;</span></p>\n\n<p style=\"line-height:normal; font-size:15px;\"><span style=\"letter-spacing:normal;\"><span>​</span></span></p>\n\n<p style=\"text-align:right; font-size:15px;\">--Calo An</p>"
+                },
+                {
+                  "type": "text",
+                  "html": "<p style=\"line-height:normal; font-size:15px;\"><span style=\"text-decoration:underline;\"><a href=\"{{BASE}}assets/015647_97880ba8fee04ce09eab6bf70b9655ce.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Click to download the resume :)</a></span></p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "character-design": {
+    "title": "Character Design",
+    "body": {
+      "type": "group",
+      "items": [
+        {
+          "type": "group",
+          "items": [
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "gallery",
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/015647_18845e0735444619bdf025bc61549994~mv2.webp",
+                      "alt": "yaoshunyu",
+                      "width": 1920,
+                      "height": 1080,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_76e650ca97a149f39b3bc7c46e6f5c85~mv2.webp",
+                      "alt": "未命名作品 7的副本",
+                      "width": 2224,
+                      "height": 1338,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_d65fad6b73664339a94febbd17d198aa~mv2.webp",
+                      "alt": "未命名作品 2的副本",
+                      "width": 2224,
+                      "height": 1332,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_d45baa8829f9490287b2f34f3fdb24e5~mv2.webp",
+                      "alt": "未命名作品 8",
+                      "width": 1920,
+                      "height": 1080,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_5a95c4e9abb04ed6941dbe54a4b57238~mv2.webp",
+                      "alt": "deer2，",
+                      "width": 4000,
+                      "height": 2160,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_23ecf0b660b54eae806f7a0a7b40d4d4~mv2.webp",
+                      "alt": "",
+                      "width": 3840,
+                      "height": 2160,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_9f7232fc3067477c805ab7837647490d~mv2.webp",
+                      "alt": "ColorVariation_CaloAn",
+                      "width": 1920,
+                      "height": 1080,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_3fe1adeb1a5f4f9cb407567f427de364~mv2.webp",
+                      "alt": "RainExpression_CaloAn",
+                      "width": 1920,
+                      "height": 1080,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_889cec5a93bb495a9e2df6eeaed94238~mv2.webp",
+                      "alt": "",
+                      "width": 1920,
+                      "height": 1080,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_c0cb5216afe644abb4be35ae1dc09a04~mv2.webp",
+                      "alt": "",
+                      "width": 1920,
+                      "height": 1080,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_c158760f738f41bf84398ec134100d59~mv2.webp",
+                      "alt": "",
+                      "width": 1920,
+                      "height": 1080,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_e07fbba7f6f9455cb1f2cb7e11f1df72~mv2.webp",
+                      "alt": "",
+                      "width": 1920,
+                      "height": 1080,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_c26c08cbc25a41c2a73ce61b35cc0f1d~mv2.webp",
+                      "alt": "",
+                      "width": 1920,
+                      "height": 1080,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_90b410c53f0345e3a73729e42b68416a~mv2.webp",
+                      "alt": "",
+                      "width": 1920,
+                      "height": 1080,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_a18c04d416b647dea7763fcee4bbf8dc~mv2.webp",
+                      "alt": "",
+                      "width": 1920,
+                      "height": 1080,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_a816c11b5d464226b6d2e0b812d78bd2~mv2.webp",
+                      "alt": "",
+                      "width": 1920,
+                      "height": 1080,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_c5c79bcc284b4e8fb78950feeaaf5e6b~mv2.webp",
+                      "alt": "",
+                      "width": 1920,
+                      "height": 1080,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_77ef2039d3e143d29d3bdadd75465f37~mv2.webp",
+                      "alt": "",
+                      "width": 1920,
+                      "height": 1080,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_86f8b8f864c34df09d2c862a8104d251~mv2.webp",
+                      "alt": "",
+                      "width": 1920,
+                      "height": 1080,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_f8c370ea60774191b4ca3f43a4d137ee~mv2.webp",
+                      "alt": "",
+                      "width": 2736,
+                      "height": 1668,
+                      "half": false
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_3ba54df0287b4522b0c83f235ceca360~mv2.webp",
+                      "alt": "12画板 5",
+                      "width": 1920,
+                      "height": 1080,
+                      "half": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "crafts": {
+    "title": "Crafts",
+    "body": {
+      "type": "group",
+      "items": [
+        {
+          "type": "group",
+          "items": [
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/015647_e43d301ba28c4f45bea850e5a4b16333~mv2.webp",
+                  "alt": "1画板 1.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "image",
+                  "src": "assets/015647_3e90d83427ec4d2bb7c9a6df7f6e0532~mv2.webp",
+                  "alt": "2画板 2.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "group",
+                  "items": [
+                    {
+                      "type": "group",
+                      "items": []
+                    }
+                  ]
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_3a2c014cd3ab4e2bb29ec2815b3c93ae~mv2.webp",
+                  "alt": "IMG_2173.JPG",
+                  "width": 1280,
+                  "height": 944,
+                  "half": false
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "gallery",
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/015647_775a9466fa76401c95042b5f36e2559d~mv2.webp",
+                      "alt": "IMG_0910.JPG",
+                      "width": 2880,
+                      "height": 2160
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_4960c774001f477e910c4beac2bbdbe4~mv2.webp",
+                      "alt": "IMG_0905.JPG",
+                      "width": 2160,
+                      "height": 1620
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_17a278893c31417a9eb813a3fca10d41~mv2.webp",
+                      "alt": "IMG_0909.JPG",
+                      "width": 2160,
+                      "height": 1620
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_de75cadeab3e444db747b7dca445a54c~mv2.webp",
+                      "alt": "IMG_0908.JPG",
+                      "width": 2160,
+                      "height": 1620
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_9aae8d3b358449c0b2cb3994d20cb56e~mv2.webp",
+                      "alt": "IMG_1328.JPG",
+                      "width": 2088,
+                      "height": 1523
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_918381beb21a47679b6fd2e4d6381e71~mv2.webp",
+                      "alt": "IMG_0911.JPG",
+                      "width": 2692,
+                      "height": 2019
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_45b52c179d8043e8822e024e5fb1376e~mv2.webp",
+                      "alt": "IMG_1332.jpg",
+                      "width": 1661,
+                      "height": 1169
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_ee707f5aee864b2a8fc25258445dd6c5~mv2.webp",
+                      "alt": "IMG_1330.JPG",
+                      "width": 2160,
+                      "height": 1620
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_74d636fd1135495da2585c2af6a999bd~mv2.webp",
+                      "alt": "IMG_1335.JPG",
+                      "width": 2160,
+                      "height": 1620
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "experimental-animation": {
+    "title": "Experimental Animation",
+    "body": {
+      "type": "group",
+      "items": [
+        {
+          "type": "group",
+          "items": [
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "video",
+                  "src": "assets/015647_8382a5060da3442d97fd95ac2190a21c.mp4",
+                  "poster": "assets/015647_8382a5060da3442d97fd95ac2190a21cf000.webp",
+                  "title": "The World of Shapes"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "video",
+                  "src": "assets/015647_55f2a0951a5848948b4ed18e366b6f9f.mp4",
+                  "poster": "assets/015647_55f2a0951a5848948b4ed18e366b6f9ff000.webp",
+                  "title": "Laika Laika Laika"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "video",
+                  "src": "assets/015647_4a5696282e484c0899865f6046076802.mp4",
+                  "poster": "assets/015647_4a5696282e484c0899865f6046076802f000.webp",
+                  "title": "Experimental animation"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "video",
+                  "src": "assets/015647_f4141be34d254dea94d064c24ebb8a68.mp4",
+                  "poster": "assets/015647_f4141be34d254dea94d064c24ebb8a68f000.webp",
+                  "title": "Have to Happy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "fishbob": {
+    "title": "FishBob",
+    "body": {
+      "type": "group",
+      "items": [
+        {
+          "type": "group",
+          "items": [
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "columns",
+                  "items": [
+                    {
+                      "type": "group",
+                      "items": [
+                        {
+                          "type": "text",
+                          "html": "<h1 style=\"font-size:56px; line-height:normal;\"><span style=\"letter-spacing:normal;\"><span style=\"font-size:56px;\">FishBob</span></span></h1>"
+                        },
+                        {
+                          "type": "text",
+                          "html": "<p style=\"font-size:16px; line-height:1.8em;\"><span style=\"letter-spacing:normal;\"><span style=\"font-size:16px;\">2020-2022</span></span></p>"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "group",
+                      "items": [
+                        {
+                          "type": "text",
+                          "html": "<h5 style=\"font-size:28px;\">Synopsis</h5>"
+                        },
+                        {
+                          "type": "text",
+                          "html": "<p style=\"font-size:16px; line-height:1.8em;\"><span style=\"letter-spacing:normal;\"><span style=\"font-size:16px;\">A tilted world with people follow the tilted gravity. In order to save the fish in his head, only one man follows his own gravity and fights with everything around him. </span></span></p>"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "group",
+                  "items": [
+                    {
+                      "type": "group",
+                      "items": [
+                        {
+                          "type": "image",
+                          "src": "assets/015647_919fd1ca6f0c45508d95f2979a344006~mv2.webp",
+                          "alt": "FB_title02.jpg",
+                          "width": 8000,
+                          "height": 4500,
+                          "half": false
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Trailer</h6>"
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "video",
+                  "src": "assets/015647_5f206cf781344408a17cf7e7fdd7569e.mp4",
+                  "poster": "assets/015647_5f206cf781344408a17cf7e7fdd7569ef000.webp",
+                  "title": "FishBob Trailer"
+                },
+                {
+                  "type": "text",
+                  "html": "<p style=\"font-size:15px;\">Trailer music credit:</p>\n\n<p style=\"font-size:15px;\">Bad Ideas Distressed by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 license. <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"noopener noreferrer\">https://creativecommons.org/licenses/by/4.0/</a></p>\n\n<p style=\"font-size:15px;\"> </p>\n\n<p style=\"font-size:15px;\">Source: <a href=\"http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100488\" target=\"_blank\" rel=\"noopener noreferrer\">http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100488</a></p>\n\n<p style=\"font-size:15px;\"> </p>\n\n<p style=\"font-size:15px;\">Artist: <span style=\"text-decoration:underline;\"><a href=\"http://incompetech.com/\" target=\"_blank\" rel=\"noopener noreferrer\">http://incompetech.com/</a></span></p>"
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Character Design</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_c158760f738f41bf84398ec134100d59~mv2.webp",
+                  "alt": "c01.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<p style=\"font-size:15px;\">Bob, the main character is a fish tank head guy who lives in a big slanted city. He is a regular, even dull employee. Like most people in this city, he has almost the same daily routine. He is introverted and timid, cowardly, and afraid of things as if everything is not going his way. His work is clean up the dead fish on the street, but everything changes after he found an alive one.</p>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_e07fbba7f6f9455cb1f2cb7e11f1df72~mv2.webp",
+                  "alt": "c02.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<p style=\"font-size:15px;\">Der, the fish&#x27;s name. He is an abandoned little fish, because no one cares about fish&#x27;s life in the city, except Bob. So he is puny and helpless, sensitive but still full of curious to the world. </p>"
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Character Turn-around</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_d6efd123ebdd4b3ca00dc93d6001a4f8~mv2.gif",
+                  "alt": "Fishturnaround.gif",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_3e4ea1f9b003478790c17ea8e2311f25~mv2.gif",
+                  "alt": "Bobturnaround.gif",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_ad2cbb24245a4a8fa1fed6aa8d48a5aa~mv2.webp",
+                  "alt": "ct.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Styleframe</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_e69ea7a3e68f4d84868c127d6339bd0f~mv2.webp",
+                  "alt": "styleframe08.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Props Design</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_8ad62d8c5e6541009536688e8468f845~mv2.webp",
+                  "alt": "evir.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_6938b98dcd8642c697276cff73c13a7f~mv2.webp",
+                  "alt": "cars.jpg",
+                  "width": 1920,
+                  "height": 606,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_8b48a4c748fa4b18bdb6758908502650~mv2.webp",
+                  "alt": "handsheet.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Side Charachers</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_c26c08cbc25a41c2a73ce61b35cc0f1d~mv2.webp",
+                  "alt": "groups.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_1b2d0f3e23084641835ecd20d7280785~mv2.webp",
+                  "alt": "SC1700_groups.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Environment Deisgn</h6>"
+                },
+                {
+                  "type": "gallery",
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/015647_7f5428f9b0614b07bc2686edc50091fd~mv2.webp",
+                      "alt": "FB_Layout_SC0801.jpg",
+                      "width": 7247,
+                      "height": 3000
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_7b8e75238f474eacb05de4d17f86e9a9~mv2.webp",
+                      "alt": "Layout_SC1000_v02.jpg",
+                      "width": 8000,
+                      "height": 4500
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_cb1aaf988b9d493c8a0145b426187494~mv2.webp",
+                      "alt": "FB_BG_SC1800.jpg",
+                      "width": 2300,
+                      "height": 1294
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_138e397e13724b948da4885958559160~mv2.webp",
+                      "alt": "FB_BG_SC1900_Calo.jpg",
+                      "width": 2667,
+                      "height": 1570
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_e9eb41e037514921b32023809efa94f0~mv2.webp",
+                      "alt": "FB_BG_SC0701.jpg",
+                      "width": 2663,
+                      "height": 1700
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_5ab0e019fbb3400b86ffadd1381b1ac5~mv2.webp",
+                      "alt": "FB_BG_SC0300.jpg",
+                      "width": 2200,
+                      "height": 1238
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_fc812d66f5294021acec67d34e38a0aa~mv2.webp",
+                      "alt": "FB_BG_SC0900.jpg",
+                      "width": 5900,
+                      "height": 2746
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_07159ce906fe4dc6a5ad3c4649a496d3~mv2.webp",
+                      "alt": "Layout_SC0200_Gabby_v03.jpg",
+                      "width": 2343,
+                      "height": 1318
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_1eeb6bed01674dc5bd2f0fbce7247f6b~mv2.webp",
+                      "alt": "Layout_SC0100_Calo(1).jpg",
+                      "width": 3053,
+                      "height": 1717
+                    }
+                  ]
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_c3f83c01f8314768b48192b43d2476eb~mv2.webp",
+                  "alt": "An Jialu_Exploring the Harmonious Relati",
+                  "width": 3000,
+                  "height": 1688,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Storyboard</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_ce6c621db4724a3aaf04b2b6ecd02769~mv2.webp",
+                  "alt": "An Jialu_Exploring the Harmonious Relationship between_ANIM_Spring2022_页面_20.jpg",
+                  "width": 2214,
+                  "height": 1245,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Colorscript</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_80ba25d9fe4d4b43a6517e748017ddff~mv2.webp",
+                  "alt": "color script.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "home": {
+    "title": "Calo An — Animator & Illustrator",
+    "body": {
+      "type": "group",
+      "items": [
+        {
+          "type": "group",
+          "items": [
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "video",
+                  "src": "assets/015647_e7f9916ea19a44c9a693b7fc3bf555bd.mp4",
+                  "poster": "assets/015647_e7f9916ea19a44c9a693b7fc3bf555bdf000.webp",
+                  "title": "Demoreel 2022"
+                },
+                {
+                  "type": "text",
+                  "html": "<p style=\"font-size:15px;\">Calooartist: the animation &amp; illustration portfolio site</p>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "illustration": {
+    "title": "Illustration",
+    "body": {
+      "type": "group",
+      "items": [
+        {
+          "type": "group",
+          "items": [
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "gallery",
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/015647_8ced7c26c77542758ba9652e84a7b0b1~mv2.webp",
+                      "alt": "sofa0105.jpg",
+                      "width": 2550,
+                      "height": 3300
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_12e8e152d2fa4992a2c58cf5c24f939d~mv2.webp",
+                      "alt": "未命名作品 14.JPG",
+                      "width": 750,
+                      "height": 1334
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_212160927ef741009c09fb2d172112ae~mv2.webp",
+                      "alt": "IMG_1270.JPG",
+                      "width": 750,
+                      "height": 1334
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_00ca8758844a48449632627e88460836~mv2.webp",
+                      "alt": "ruby0103.jpg",
+                      "width": 2550,
+                      "height": 3300
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_6b2a41caad1841c49c8eb831b2107cd9~mv2.webp",
+                      "alt": "vic.jpg",
+                      "width": 2550,
+                      "height": 3300
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_b3be39a2c83d4a80b7ed1f099e494d42~mv2.webp",
+                      "alt": "IMG_4789.JPG",
+                      "width": 1300,
+                      "height": 2224
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_e5a0155392d04b37ae38f3f534f46ac0~mv2.webp",
+                      "alt": "tiezhi0207.jpg",
+                      "width": 2550,
+                      "height": 2550
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_a20282bf475048c08fff529e69119e1b~mv2.webp",
+                      "alt": "Caloan_styleframe.jpg",
+                      "width": 1920,
+                      "height": 1080
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_afcff558686b4517a5abd1417c065142~mv2.webp",
+                      "alt": "未命名作品 11.JPG",
+                      "width": 1879,
+                      "height": 1340
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_8d4bbd7d53ca412aa6a3e7bfee01a269~mv2.webp",
+                      "alt": "未命名作品 10.JPG",
+                      "width": 1668,
+                      "height": 2224
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_b5411363910b48e2b7de852fa9ec426d~mv2.webp",
+                      "alt": "ANIM704_03_AnimStyleStudy_02Illustration_CA.jpg",
+                      "width": 1920,
+                      "height": 1080
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_82e44145f94449deae57e7bef1271253~mv2.webp",
+                      "alt": "p1.jpg",
+                      "width": 3300,
+                      "height": 2550
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_8761aafb1db14784a102669c85bce027~mv2.webp",
+                      "alt": "p2.jpg",
+                      "width": 3300,
+                      "height": 2550
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_528b46acb3624d8e8fd0b57d218e2c96~mv2.webp",
+                      "alt": "fall0104.jpg",
+                      "width": 3300,
+                      "height": 2550
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_907bc91d466d4407afe483f378428d48~mv2.webp",
+                      "alt": "rainer0106.jpg",
+                      "width": 3300,
+                      "height": 2550
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_8c72f0d0b2934c908bd6e6e7598813b8~mv2.webp",
+                      "alt": "小花.jpg",
+                      "width": 3840,
+                      "height": 2160
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_aa0b84304db543b2ab7f48ced66a9b38~mv2.webp",
+                      "alt": "我的一天.jpg",
+                      "width": 1920,
+                      "height": 1080
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_debc203a274342119c1d74e9398fd66f~mv2.webp",
+                      "alt": "Stevie01140.jpg",
+                      "width": 3300,
+                      "height": 2550
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_bec2c966f93b47379fe650bbbc066e5c~mv2.webp",
+                      "alt": "victoria_postcard.jpg",
+                      "width": 1200,
+                      "height": 1800
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_4e3b20ae17b14712af5a19f55297a361~mv2.webp",
+                      "alt": "2022.jpg",
+                      "width": 1920,
+                      "height": 1080
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_177d59ac87774f3cad47555ec8ae80ab~mv2.webp",
+                      "alt": "alice1.jpg",
+                      "width": 2200,
+                      "height": 1600
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_107e549658384b6ead47d8a4d990dc42~mv2.webp",
+                      "alt": "指甲.jpg",
+                      "width": 1920,
+                      "height": 1200
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_960edc445cff490da070b3b7e0b71262~mv2.webp",
+                      "alt": "zhijia.jpg",
+                      "width": 1920,
+                      "height": 1020
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_22bf4a8915444063b52a2e3f2ba13870~mv2.webp",
+                      "alt": "alice2.1.jpg",
+                      "width": 1100,
+                      "height": 2200
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_f46b5a7c45bb412eb0251caff74e4f6d~mv2.webp",
+                      "alt": "IMG_0036.PNG",
+                      "width": 1668,
+                      "height": 2224
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "others": {
+    "title": "Others",
+    "body": {
+      "type": "category-cards",
+      "items": [
+        {
+          "title": "Character Design",
+          "slug": "character-design",
+          "image": {
+            "type": "image",
+            "src": "assets/015647_18845e0735444619bdf025bc61549994~mv2.webp",
+            "alt": "yaoshunyu.jpg",
+            "width": 1920,
+            "height": 1080,
+            "half": true
+          }
+        },
+        {
+          "title": "Experimental Animation",
+          "slug": "experimental-animation",
+          "image": {
+            "type": "image",
+            "src": "assets/015647_a02f62ea85a2418593da1875ec583046~mv2.webp",
+            "alt": "截屏2022-07-25 上午1.34.16.png",
+            "width": 2880,
+            "height": 1620,
+            "half": true
+          }
+        },
+        {
+          "title": "Illustration",
+          "slug": "illustration",
+          "image": {
+            "type": "image",
+            "src": "assets/015647_afcff558686b4517a5abd1417c065142~mv2.webp",
+            "alt": "未命名作品 11.JPG",
+            "width": 1879,
+            "height": 1340,
+            "half": true
+          }
+        },
+        {
+          "title": "Crafts",
+          "slug": "crafts",
+          "image": {
+            "type": "image",
+            "src": "assets/015647_74d636fd1135495da2585c2af6a999bd~mv2.webp",
+            "alt": "IMG_1335_edited.jpg",
+            "width": 2160,
+            "height": 1620,
+            "half": true
+          }
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "body": {
+      "type": "cards",
+      "items": [
+        {
+          "title": "FishBob",
+          "description": "This is an animated 2D short film I have directed for my graduation thesis at Savannah College of Arts and Design. The concept was inspired by my trip to San Francisco. As a director and animation supervisor, the story was created by multiple talented artists from SCAD.",
+          "slug": "fishbob",
+          "image": {
+            "type": "image",
+            "src": "assets/015647_0f15a2532e8a439ab429a392c1721b37~mv2.webp",
+            "alt": "FB05.png",
+            "width": 1920,
+            "height": 1080,
+            "half": true
+          }
+        },
+        {
+          "title": "Toothtopia",
+          "description": "Toothtopia is a story concept developed from a Chinese old saying, which is about the first baby tooth kids loose.",
+          "slug": "toothtopia",
+          "image": {
+            "type": "image",
+            "src": "assets/015647_2ff419c0d15b4bc9b2406958539a7abf~mv2.webp",
+            "alt": "Styletest_02_CaloAn.jpg",
+            "width": 1920,
+            "height": 1080,
+            "half": true
+          }
+        },
+        {
+          "title": "Treasure Hunter",
+          "description": "This concept is created for animation series. The story is about three tombs run into a time sliper and starts the adventure together.",
+          "slug": "treasure-hunter",
+          "image": {
+            "type": "image",
+            "src": "assets/015647_912e1a71242e445aab8c7f7bc98b17ff~mv2.webp",
+            "alt": "CALOAN_STORYCARD_页面_24.jpg",
+            "width": 1920,
+            "height": 1080,
+            "half": true
+          }
+        },
+        {
+          "title": "Self-portrait",
+          "description": "The Self-portrait is an individual project that shows the whole progress of the most inspiring moment of myself. The main goal of the short is creating a loop within 15 seconds.",
+          "slug": "self-portrait",
+          "image": {
+            "type": "image",
+            "src": "assets/015647_d6435217de0d4994b6bc68e09d6ef5ff~mv2.webp",
+            "alt": "截屏2022-07-21 下午12.53_edited.jpg",
+            "width": 2880,
+            "height": 1350,
+            "half": true
+          }
+        },
+        {
+          "title": "The Workout",
+          "description": "This is an individual animation project that represent the sense of time illusion when people workout. The whole animation has been done in two weeks. And I am responsible for all works in this project.",
+          "slug": "the-workout",
+          "image": {
+            "type": "image",
+            "src": "assets/015647_2a15c8fe33124d5dbe1f232b62eaf4c4~mv2.webp",
+            "alt": "截屏2022-07-21 下午12.37.37.png",
+            "width": 2880,
+            "height": 1622,
+            "half": true
+          }
+        }
+      ]
+    }
+  },
+  "self-portrait": {
+    "title": "Self-portrait",
+    "body": {
+      "type": "group",
+      "items": [
+        {
+          "type": "group",
+          "items": [
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "columns",
+                  "items": [
+                    {
+                      "type": "group",
+                      "items": [
+                        {
+                          "type": "text",
+                          "html": "<h1 style=\"font-size:56px; line-height:normal;\"><span style=\"letter-spacing:normal;\"><span style=\"font-size:56px;\">Self-portrait</span></span></h1>"
+                        },
+                        {
+                          "type": "text",
+                          "html": "<p style=\"font-size:16px; line-height:1.8em;\"><span style=\"letter-spacing:normal;\"><span style=\"font-size:16px;\">2019</span></span></p>"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "group",
+                      "items": [
+                        {
+                          "type": "text",
+                          "html": "<h5 style=\"font-size:28px;\">Synopsis</h5>"
+                        },
+                        {
+                          "type": "text",
+                          "html": "<p style=\"font-size:16px; line-height:1.8em;\"><span style=\"letter-spacing:normal;\"><span style=\"font-size:16px;\">The magic transition in-between the process of being inspired during taking a shower.</span></span></p>"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "items": []
+            },
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "video",
+                  "src": "assets/015647_4fa487d67cb840bda44a4986cc9fd5e3.mp4",
+                  "poster": "assets/015647_4fa487d67cb840bda44a4986cc9fd5e3f000.webp",
+                  "title": "Self-portrait"
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Character Design</h6>"
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Final Screen-grab</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_ae7ff701b3784eaa91d9b08ef8ade1fe~mv2.webp",
+                  "alt": "截屏2022-07-24 下午10.08.31.png",
+                  "width": 2880,
+                  "height": 1626,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_c9ba76a3037e4251bb4eafd3bd93b1fc~mv2.webp",
+                  "alt": "截屏2022-07-24 下午8.02.08.png",
+                  "width": 2880,
+                  "height": 1624,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_1e8995ad9c7e44afb7c8ab419ebf789e~mv2.webp",
+                  "alt": "截屏2022-07-24 下午8.02.45.png",
+                  "width": 2880,
+                  "height": 1624,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_8d5989c49b00472eb65d77c91470cac5~mv2.webp",
+                  "alt": "截屏2022-07-21 下午12.53.27.png",
+                  "width": 2880,
+                  "height": 1626,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_18688feed3f84d20ae87c7449a52d19e~mv2.webp",
+                  "alt": "截屏2022-07-24 下午8.03.49.png",
+                  "width": 2880,
+                  "height": 1624,
+                  "half": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "the-workout": {
+    "title": "The Workout",
+    "body": {
+      "type": "group",
+      "items": [
+        {
+          "type": "group",
+          "items": [
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "columns",
+                  "items": [
+                    {
+                      "type": "group",
+                      "items": [
+                        {
+                          "type": "text",
+                          "html": "<h1 style=\"font-size:56px; line-height:normal;\"><span style=\"letter-spacing:normal;\"><span style=\"font-size:56px;\">The Workout</span></span></h1>"
+                        },
+                        {
+                          "type": "text",
+                          "html": "<p style=\"font-size:16px; line-height:1.8em;\"><span style=\"letter-spacing:normal;\"><span style=\"font-size:16px;\">2020</span></span></p>"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "group",
+                      "items": [
+                        {
+                          "type": "text",
+                          "html": "<h5 style=\"font-size:28px;\">Synopsis</h5>"
+                        },
+                        {
+                          "type": "text",
+                          "html": "<p style=\"font-size:16px; line-height:1.8em;\"><span style=\"letter-spacing:normal;\"><span style=\"font-size:16px;\">The girl is working out on the treadmill and experiencing the illustion of time.</span></span></p>"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "section",
+              "items": []
+            },
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "video",
+                  "src": "assets/015647_aa2a614ea6b64b368f3eff94ddab65ce.mp4",
+                  "poster": "assets/015647_aa2a614ea6b64b368f3eff94ddab65cef000.webp",
+                  "title": "The Workout"
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Character Design</h6>"
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Character Turn-around</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_2ed3c6ebfce243768422e1ad4688ebd1~mv2.webp",
+                  "alt": "RUNcharacter.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Environment Deisgn</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_5145017155054908b78bda8aecce41db~mv2.webp",
+                  "alt": "shot02-bg.png",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_59bb1e6dba5f4bc1849f9071600bc433~mv2.webp",
+                  "alt": "shot04-01-bg.png",
+                  "width": 7061,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_0a13296a258940c6b5372f79b94c1a54~mv2.webp",
+                  "alt": "shot04-02-bg.png",
+                  "width": 3578,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_6fd2dfe87b7e4ba59e56ee0c9de4b9b5~mv2.webp",
+                  "alt": "shot04-03-bg.png",
+                  "width": 2374,
+                  "height": 1421,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_7a7359f772e64f12bbeb80813bde5cf8~mv2.webp",
+                  "alt": "shot04-04-bg.png",
+                  "width": 3578,
+                  "height": 1080,
+                  "half": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "toothtopia": {
+    "title": "Toothtopia",
+    "body": {
+      "type": "group",
+      "items": [
+        {
+          "type": "group",
+          "items": [
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "columns",
+                  "items": [
+                    {
+                      "type": "group",
+                      "items": [
+                        {
+                          "type": "text",
+                          "html": "<h1 style=\"font-size:56px; line-height:normal;\"><span style=\"letter-spacing:normal;\"><span style=\"font-size:56px;\">Toothtopia</span></span></h1>"
+                        },
+                        {
+                          "type": "text",
+                          "html": "<p style=\"font-size:16px; line-height:1.8em;\"><span style=\"letter-spacing:normal;\"><span style=\"font-size:16px;\">2021</span></span></p>"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "group",
+                      "items": [
+                        {
+                          "type": "text",
+                          "html": "<h5 style=\"font-size:28px;\">Synopsis</h5>"
+                        },
+                        {
+                          "type": "text",
+                          "html": "<p style=\"font-size:16px; line-height:1.8em;\"><span style=\"letter-spacing:normal;\"><span style=\"font-size:16px;\">The little girl, Rain, once finds her tooth fall off. She has no idea what is going on with the tooth and she afraids. Rain asks the grandma, however, she needs to find the ultimate answer by herself.</span></span></p>"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "group",
+                  "items": [
+                    {
+                      "type": "group",
+                      "items": [
+                        {
+                          "type": "image",
+                          "src": "assets/015647_9778e528923443ab9655a84144e17fd0~mv2.webp",
+                          "alt": "屏幕截图 2022-07-23 233705.png",
+                          "width": 1599,
+                          "height": 726,
+                          "half": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Trailer</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_955890ab04a640c28e10b0f949586d83~mv2.webp",
+                  "alt": "Styletest_01_CaloAn.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Character Design</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_21f4419cee33432bb375a0b58292da93~mv2.webp",
+                  "alt": "cc01.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_9f7232fc3067477c805ab7837647490d~mv2.webp",
+                  "alt": "ColorVariation_CaloAn.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<p style=\"font-size:15px;\">Rain-she is a 7 years old girl with a little &quot;OCT&quot; in her personality. She likes organize everything in order. Rain is borned in a countryside and her best friends are the gooses, dogs, cats, chicks, and her grandmother. She enjoys the nature and she always can find rhythmic in there.</p>\n\n<p style=\"font-size:15px;\"><span>​</span></p>\n\n<p style=\"font-size:15px;\">Junhui-the grandma is a 79 years old lady. She experiences a lot in her past life times. Grandma talks slow and she tends to do everything randomly. She loves everything about life and she is full of peaceful and grateful. Her granddaughter, Rain, makes the best accompany to her. Junhui likes to tells some old stories to Rain.</p>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_3fe1adeb1a5f4f9cb407567f427de364~mv2.webp",
+                  "alt": "RainExpression_CaloAn.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_889cec5a93bb495a9e2df6eeaed94238~mv2.webp",
+                  "alt": "Rainposes_CaloAn.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_c0cb5216afe644abb4be35ae1dc09a04~mv2.webp",
+                  "alt": "GrandmaPoses_CaloAn.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Character Turn-around</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_b5e6321032db4789a1bca12f655fc2d4~mv2.gif",
+                  "alt": "GrandmaTurnAround_CaloAn.gif",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": true
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_07585b0241b847b4af3b8aa6512f1267~mv2.gif",
+                  "alt": "RainTurnAround_CaloAn.gif",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": true
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Moodboard</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_a9db338a854a423eb7e8a501d842bfad~mv2.webp",
+                  "alt": "Moodboard_CaloAn.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Style Experiment</h6>"
+                },
+                {
+                  "type": "video",
+                  "src": "assets/015647_afcc66e71b394f5d98541f2338ef01ad.mp4",
+                  "poster": "assets/015647_afcc66e71b394f5d98541f2338ef01adf000.webp",
+                  "title": "Toothtopia Trailer"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_5e89b8083f26455ab302153449e55f75~mv2.webp",
+                  "alt": "Styletest_03_CaloAn.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_2ff419c0d15b4bc9b2406958539a7abf~mv2.webp",
+                  "alt": "Styletest_02_CaloAn.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_e1365f0a6bd844bca6c96f8c0c776e75~mv2.webp",
+                  "alt": "Styletest_05_CaloAn.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Props Design</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_35643c15c6804e4da7270bb9977ec58c~mv2.webp",
+                  "alt": "Props_02_CaloAn.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_8565b7693ff94f5b8df622ba05232def~mv2.webp",
+                  "alt": "Props_03_CaloAn.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_7cadae942ec2404b95e3244d82a29fc1~mv2.webp",
+                  "alt": "Props_01_CaloAn.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_52bc2c1e9def482b90a6d188d9605d7e~mv2.webp",
+                  "alt": "Styletest_04_CaloAn.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Animatic</h6>"
+                },
+                {
+                  "type": "video",
+                  "src": "assets/015647_aa579176ca2d4b908e1fa9944e930ec1.mp4",
+                  "poster": "assets/015647_aa579176ca2d4b908e1fa9944e930ec1f000.webp",
+                  "title": "Toothtopia Animatic"
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Colorscript</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_8d27f2b297d74030a02b68516c2d49e8~mv2.webp",
+                  "alt": "ColorScript_CaloAn.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "treasure-hunter": {
+    "title": "Treasure Hunter",
+    "body": {
+      "type": "group",
+      "items": [
+        {
+          "type": "group",
+          "items": [
+            {
+              "type": "section",
+              "items": [
+                {
+                  "type": "columns",
+                  "items": [
+                    {
+                      "type": "group",
+                      "items": [
+                        {
+                          "type": "text",
+                          "html": "<h1 style=\"font-size:56px; line-height:normal;\"><span style=\"letter-spacing:normal;\"><span style=\"font-size:56px;\">Treasure Hunter</span></span></h1>"
+                        },
+                        {
+                          "type": "text",
+                          "html": "<p style=\"font-size:16px; line-height:1.8em;\"><span style=\"letter-spacing:normal;\"><span style=\"font-size:16px;\">2021</span></span></p>"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "group",
+                      "items": [
+                        {
+                          "type": "text",
+                          "html": "<h5 style=\"font-size:28px;\">Synopsis</h5>"
+                        },
+                        {
+                          "type": "text",
+                          "html": "<p style=\"font-size:16px; line-height:1.8em;\"><span style=\"letter-spacing:normal;\"><span style=\"font-size:16px;\">An alcoholic assassin from ancient China gets a secret mission to kill the emperor, but when he wakes up after a drunk night, he finds himself lays next to his dead body in the emperor’s coffin chamber. Then a group of tomb break into the coffin chamber, the assassin decides to go adventure with them and keeps looking for the truth of his own death in the modern period.</span></span></p>"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "group",
+                  "items": [
+                    {
+                      "type": "group",
+                      "items": [
+                        {
+                          "type": "image",
+                          "src": "assets/015647_7465cdef378448d9afdb870e5d350a86~mv2.webp",
+                          "alt": "Treasure Hunter.jpg",
+                          "width": 1920,
+                          "height": 1080,
+                          "half": false
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Character Design</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_f2ce0672c657484ca6bfd042370266cc~mv2.webp",
+                  "alt": "t010.jpg",
+                  "width": 2900,
+                  "height": 1450,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_90b410c53f0345e3a73729e42b68416a~mv2.webp",
+                  "alt": "CALOAN_STORYCARD_页面_07.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_a816c11b5d464226b6d2e0b812d78bd2~mv2.webp",
+                  "alt": "CALOAN_STORYCARD_页面_11.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_a18c04d416b647dea7763fcee4bbf8dc~mv2.webp",
+                  "alt": "CALOAN_STORYCARD_页面_13.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_c5c79bcc284b4e8fb78950feeaaf5e6b~mv2.webp",
+                  "alt": "CALOAN_STORYCARD_页面_09.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Character Turn-arounds</h6>"
+                },
+                {
+                  "type": "gallery",
+                  "items": [
+                    {
+                      "type": "image",
+                      "src": "assets/015647_12b2a6110ada45e9af98df56b978e67b~mv2.webp",
+                      "alt": "t01.jpg",
+                      "width": 2901,
+                      "height": 1080
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_4d4d43d3a2174f5199dd64943f4ec71d~mv2.webp",
+                      "alt": "t03.jpg",
+                      "width": 2901,
+                      "height": 1080
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_b67ff526088e4d00bb99ca6a0ca070bf~mv2.webp",
+                      "alt": "t02.jpg",
+                      "width": 2901,
+                      "height": 1080
+                    },
+                    {
+                      "type": "image",
+                      "src": "assets/015647_878eef3524a44df3b1a85e373bbbaa40~mv2.webp",
+                      "alt": "t04.jpg",
+                      "width": 2901,
+                      "height": 1080
+                    }
+                  ]
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Props Design</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_47a3e0cd0d3d456ab9604d1294b86918~mv2.webp",
+                  "alt": "CALOAN_STORYCARD_页面_31.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": true
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_d68fa95a70a14be1b5231598332e6f32~mv2.webp",
+                  "alt": "CALOAN_STORYCARD_页面_28.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": true
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_b9d5fbbf057a467390daf91106e0e55a~mv2.webp",
+                  "alt": "CALOAN_STORYCARD_页面_30.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": true
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_1698128f390c43eb987f66602c0d7f2b~mv2.webp",
+                  "alt": "CALOAN_STORYCARD_页面_29.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": true
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Environment Desgin</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_a5328c93ac274e488d9f0908ed719c1b~mv2.webp",
+                  "alt": "CALOAN_STORYCARD_页面_23.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_912e1a71242e445aab8c7f7bc98b17ff~mv2.webp",
+                  "alt": "CALOAN_STORYCARD_页面_24.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_ecfa680af7df48059cb18ad3adfb31af~mv2.webp",
+                  "alt": "CALOAN_STORYCARD_页面_33.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_7c6542ddfbb2477d8409cd2afa982b43~mv2.webp",
+                  "alt": "CALOAN_STORYCARD_页面_34.jpg",
+                  "width": 1920,
+                  "height": 1080,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"text-align:center; font-size:15px;\">Slice of Life</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_6ae65a203c3a4efab04eff228953325a~mv2.webp",
+                  "alt": "CALOAN_STORYCARD_页面_18_edited.jpg",
+                  "width": 3000,
+                  "height": 1379,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"font-size:15px;\">Do the Dishes</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_d6f80134d6e9443fba62b5cd1c78cd70~mv2.webp",
+                  "alt": "CALOAN_STORYCARD_页面_16_edited.jpg",
+                  "width": 3000,
+                  "height": 1387,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"font-size:15px;\">The Music</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_f74a8644f1944d6a930d8bdd239ceae0~mv2.webp",
+                  "alt": "CALOAN_STORYCARD_页面_19_edited.jpg",
+                  "width": 3000,
+                  "height": 1379,
+                  "half": false
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_d7331367c5e241bbbacac3e97d4ccab3~mv2.webp",
+                  "alt": "CALOAN_STORYCARD_页面_20_edited.jpg",
+                  "width": 2996,
+                  "height": 1351,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"font-size:15px;\">Send a Message</h6>"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/015647_af9b7adf59524f2898574e1a6c2bbfb4~mv2.webp",
+                  "alt": "CALOAN_STORYCARD_页面_17_edited.jpg",
+                  "width": 3000,
+                  "height": 1359,
+                  "half": false
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"font-size:15px;\">&quot;I Do Enjoy the Sports Ball!&quot;</h6>"
+                },
+                {
+                  "type": "text",
+                  "html": "<h6 style=\"font-size:15px;\">Seasons Greeting</h6>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
